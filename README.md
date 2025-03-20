@@ -22,8 +22,8 @@ A Next.js application that allows users to upload DOCX files, extract template s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/docx_billy.git
-cd docx_billy
+git clone https://github.com/yourusername/docx-templates-parser.git
+cd docx-templates-parser
 ```
 
 2. Install the dependencies:
